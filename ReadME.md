@@ -1,4 +1,4 @@
-## rabbitMQ安装
+## RabbitMQ
 *   [0、RabbitMQ教程](#RabbitMQ) 
 *   [1、安装 ErLang](#ErLang) 
 *   [2、安装 RabbitMQ](#RabbitMQ-install) 
