@@ -3,7 +3,7 @@
 *   [1、安装 ErLang](#ErLang) 
 *   [2、安装 RabbitMQ](#RabbitMQ-install) 
 
-> [dillinger]( https://dillinger.io/ )  &ensp;  [作业部落]( https://www.zybuluo.com/mdeditor )   
+> [github]( https://github.com/scott180/RabbitMQ-test ) &ensp; [dillinger]( https://dillinger.io/ )  &ensp;  [作业部落]( https://www.zybuluo.com/mdeditor )   
 
 
 <h2 id="RabbitMQ"></h2>
@@ -11,7 +11,8 @@
 ### 0、RabbitMQ教程
 >消息队列（Message Queue，简称MQ），从字面意思上看，本质是个队列，FIFO先入先出，只不过队列中存放的内容是message而已。
 其主要用途：不同进程Process/线程Thread之间通信。
-[RabbitMQ教程]( https://blog.csdn.net/hellozpc/article/details/81436980 ) &ensp; [RabbitMQ 详解]( http://www.ityouknow.com/springboot/2016/11/30/spring-boot-rabbitMQ.html ) &ensp;[什么时候该使用MQ]( https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960012&idx=1&sn=c6af5c79ecead98daa4d742e5ad20ce5&chksm=bd2d07108a5a8e0624ae6ad95001c4efe09d7ba695f2ddb672064805d771f3f84bee8123b8a6&mpshare=1&scene=1&srcid=04054h4e90lz5Qc2YKnLNuvY )
+
+>[RabbitMQ教程]( https://blog.csdn.net/hellozpc/article/details/81436980 ) &ensp; [RabbitMQ 详解]( http://www.ityouknow.com/springboot/2016/11/30/spring-boot-rabbitMQ.html ) &ensp;[什么时候该使用MQ]( https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960012&idx=1&sn=c6af5c79ecead98daa4d742e5ad20ce5&chksm=bd2d07108a5a8e0624ae6ad95001c4efe09d7ba695f2ddb672064805d771f3f84bee8123b8a6&mpshare=1&scene=1&srcid=04054h4e90lz5Qc2YKnLNuvY )
 
 <h2 id="ErLang"></h2>
 
