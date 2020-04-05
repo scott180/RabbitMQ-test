@@ -14,6 +14,7 @@
 
 >[RabbitMQ教程]( https://blog.csdn.net/hellozpc/article/details/81436980 ) &ensp; [RabbitMQ 详解]( http://www.ityouknow.com/springboot/2016/11/30/spring-boot-rabbitMQ.html ) &ensp;[什么时候该使用MQ]( https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960012&idx=1&sn=c6af5c79ecead98daa4d742e5ad20ce5&chksm=bd2d07108a5a8e0624ae6ad95001c4efe09d7ba695f2ddb672064805d771f3f84bee8123b8a6&mpshare=1&scene=1&srcid=04054h4e90lz5Qc2YKnLNuvY )
 
+
 <h2 id="ErLang"></h2>
 
 ### 1、安装 ErLang_otp_win64_22.2.exe 
@@ -21,6 +22,7 @@
 - 设置环境变量，新建 ERLANG_HOME
 - 修改环境变量path，增加Erlang变量至path，%ERLANG_HOME%\bin;
 - 打开cmd命令框，输入 erl -version  验证
+
 
 
 <h2 id="RabbitMQ-install"></h2>
@@ -34,6 +36,8 @@
 - 登陆 http://127.0.0.1:15672/    账号密码 guest，guest
 
 --------------
+
+
 
 ```
 D:\>cd D:\ProgramFiles\rabbitmq-server-3.8.2\rabbitmq_server-3.8.2\sbin
