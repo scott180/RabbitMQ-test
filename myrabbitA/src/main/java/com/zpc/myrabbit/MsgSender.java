@@ -25,7 +25,7 @@ public class MsgSender {
         Map<String, Object> msg = new HashMap<String, Object>();
         msg.put("type", "1");
         msg.put("date", date);
-        template.convertAndSend("type.2", JSON.toJSONString(msg));
+        template.convertAndSend("testRoutingKey", JSON.toJSONString(msg));
         Thread.sleep(1000);// 休眠1秒
         ctx.destroy(); //容器销毁
     }
