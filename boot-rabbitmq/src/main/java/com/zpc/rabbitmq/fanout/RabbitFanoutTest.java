@@ -16,5 +16,6 @@ public class RabbitFanoutTest {
     @Test
     public void send1() throws Exception {
         msgSender.send();
+        Thread.sleep(1000);
     }
 }

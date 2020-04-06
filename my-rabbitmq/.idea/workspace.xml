@@ -2,52 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6963854a-e0d8-48fe-a6dd-73f03e409ebf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../myrabbitA/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myrabbitB/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../myrabbitC/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_4_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_4_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_4_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_4_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_aop_4_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_aop_4_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_beans_4_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_beans_4_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_context_4_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_context_4_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_core_4_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_core_4_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_expression_4_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_expression_4_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_messaging_4_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_messaging_4_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_tx_4_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/libraries/Maven__org_springframework_spring_tx_4_1_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myrabbitA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/src/main/java/com/zpc/myrabbit/MsgSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/src/main/java/com/zpc/myrabbit/MsgSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/src/main/resources/spring/rabbitmq-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/src/main/resources/spring/rabbitmq-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/target/classes/com/zpc/myrabbit/MsgSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/target/classes/com/zpc/myrabbit/MsgSender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitA/target/classes/spring/rabbitmq-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitA/target/classes/spring/rabbitmq-context.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myrabbitB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitB/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitB/target/classes/com/zpc/myrabbit/listener/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitB/target/classes/com/zpc/myrabbit/listener/Listener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitB/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitB/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_4_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_1_4_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_4_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_1_4_0_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_messaging_4_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_messaging_4_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_tx_4_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_tx_4_1_2_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myrabbitC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/target/classes/com/zpc/myrabbit/listener/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/target/classes/com/zpc/myrabbit/listener/Listener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myrabbitC/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../myrabbitC/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -570,15 +528,16 @@
       <workItem from="1533358733327" duration="6013000" />
       <workItem from="1533457699034" duration="38000" />
       <workItem from="1586081748836" duration="4828000" />
-      <workItem from="1586147921845" duration="684000" />
+      <workItem from="1586147921845" duration="825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26100000" />
+    <option name="totallyTimeSpent" value="26241000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1292" height="692" extended-state="1" />
+    <frame x="-6" y="0" width="1292" height="692" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27795786" />
       <window_info id="Structure" order="1" weight="0.25" />
